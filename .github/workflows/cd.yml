@@ -20,4 +20,3 @@ jobs:
       
       - name: Build Go Code
         run: ./scripts/buildprod.sh
-      
